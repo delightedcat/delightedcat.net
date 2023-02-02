@@ -1,11 +1,12 @@
 # bottledlactose.net
 
-The official DelightedCat home page.
+This repository contains the static source files for the DelightedCat home page.
+
+The website is hosted at [bottledlactose.net](https://www.bottledlactose.net).
 
 ## License
 
-MIT license
+Although you are allowed to download this repository and contribute to it, it is forbidden to host the source files on a publicly accessible location under your own name.
 
-Use of any of the icons and/or images claiming they are your own
-is not allowed. You are obligated to mention they are property of
-DelightedCat and/or bottledlactose including a link to this repository.
+You nust attribute the website and/or any icons or images used to
+DelightedCat and/or bottledlactose including a link to this repository when using any of the icon and/or image files.
