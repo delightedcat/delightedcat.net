@@ -2,6 +2,8 @@
 
 This repository contains the static source files for the DelightedCat home page.
 
+![screenshot.png](https://raw.githubusercontent.com/bottledlactose/bottledlactose.net/trunk/screenshot.png)
+
 The website is hosted at [bottledlactose.net](https://www.bottledlactose.net).
 
 ## License
