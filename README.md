@@ -10,5 +10,5 @@ The website is hosted at [bottledlactose.net](https://www.bottledlactose.net).
 
 Although you are allowed to download this repository and contribute to it, it is forbidden to host the source files on a publicly accessible location under your own name.
 
-You nust attribute the website and/or any icons or images used to
+You must attribute the website and/or any icons or images used to
 DelightedCat and/or bottledlactose including a link to this repository when using any of the icon and/or image files.
